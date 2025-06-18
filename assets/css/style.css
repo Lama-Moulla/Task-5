@@ -196,7 +196,6 @@ nav ul .myword{
             }
         }
         ul li{
-            /* margin-top: 24px; */
             a{
                 text-decoration: none;
                 /* color: var(--mygray-color); */  /* او بعمل سبان و بحط كلاس داخلو*/
@@ -238,7 +237,7 @@ nav ul .myword{
     }
 
     .hero{
-        padding-top: 167px;
+        margin-top: 167px;
         .container{
             .title{
                 max-width: 378px;
