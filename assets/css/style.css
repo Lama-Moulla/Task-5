@@ -29,6 +29,11 @@
     height: 48px;
     border-radius: 8px !important;
     background-color: var(--mybtn-color);
+    transition:  transform 1s ease-in-out;
+}
+
+button:hover{
+    transform: scale(1.1);
 }
 
 .max_width_image{
